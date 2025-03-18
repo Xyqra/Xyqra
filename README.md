@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+🔒 **PGP Public Key:** https://xyqra.com/public.asc
+
+lol why are you here?
+
+
+
 <!--
 **Xyqraaa/Xyqraaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
