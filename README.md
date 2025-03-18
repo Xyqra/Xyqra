@@ -4,7 +4,8 @@
 
 lol why are you here?
 
-
+### Random stats that show that im not active on Github D:
+![random stats](https://github-readme-stats.vercel.app/api?username=Xyqraaa)
 
 <!--
 **Xyqraaa/Xyqraaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
