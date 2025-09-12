@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🔒 **PGP Public Key:** https://xyqra.com/public.asc
+🔒 [**PGP Public Key:**](./public.asc)
 
 lol why are you here?
 
